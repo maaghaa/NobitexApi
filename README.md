@@ -15,7 +15,7 @@ This class provides a simple way to interact with the Nobitex API using PHP. You
 You can install this class using composer:
 
 ```shell
-composer require maaghaa/NobitexApi
+composer require maaghaa/nobitex-php-api-class
 ```
 
 Or you can download the nobitex.php file and include it in your project:
